@@ -23,7 +23,7 @@ public class Belonging {
         id.setList(list);
         this.position = position;
     }
-    
+
     public BelongingPK getId() {
         return id;
     }
